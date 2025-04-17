@@ -38,13 +38,6 @@ from gensim.models import Word2Vec
 from gensim.models.fasttext import FastText
 
 # Download necessary NLTK data
-nltk.download('vader_lexicon', quiet=True)
-nltk.download('punkt', quiet=True)
-nltk.download('stopwords', quiet=True)
-nltk.download('wordnet', quiet=True)
-nltk.download('averaged_perceptron_tagger', quiet=True)
-nltk.download('maxent_ne_chunker', quiet=True)
-nltk.download('words', quiet=True)
 
 # Set up logging
 logging.basicConfig(level=logging.INFO)

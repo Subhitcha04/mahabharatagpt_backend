@@ -1,0 +1,80 @@
+{
+    "mythology_eras": [
+      {
+        "era_name": "Dvapara Yuga",
+        "queries": [
+          "What characteristics define the Dvapara Yuga in the Mahabharata?",
+          "How does the Dvapara Yuga differ from the previous and subsequent Yugas?",
+          "What significant events occur during the Dvapara Yuga?",
+          "How do the moral and ethical dilemmas faced by characters reflect the era's values?",
+          "What lessons can be learned from the narratives set in the Dvapara Yuga?"
+        ],
+        "answers": [
+          "The Dvapara Yuga is characterized by a decline in virtue and an increase in vice, yet it still retains some noble qualities. It differs from the previous Treta Yuga, which was marked by greater righteousness, and the subsequent Kali Yuga, known for its moral degradation. Significant events during the Dvapara Yuga include the Kurukshetra War, the life of Lord Krishna, and the eventual downfall of the Kauravas. The moral and ethical dilemmas faced by characters, such as the struggle between duty and righteousness, reflect the values of this era. The narratives teach lessons about the consequences of one's actions and the importance of adhering to Dharma, even in challenging circumstances."
+        ],
+        "image": null,
+        "manual_entry": false
+      },
+      {
+        "era_name": "Satya Yuga",
+        "queries": [
+          "What defines the Satya Yuga in the context of the Mahabharata?",
+          "How do the events of the Satya Yuga set the stage for the later Yugas?",
+          "What is the significance of Dharma during the Satya Yuga?",
+          "How are the characters portrayed in the Satya Yuga compared to later Yugas?",
+          "What lessons does the Mahabharata convey about the ideal state of society during the Satya Yuga?"
+        ],
+        "answers": [
+          "The Satya Yuga, also known as the Golden Age, is defined by the prevalence of truth, righteousness, and virtue, where Dharma reigns supreme. The events of this era set the stage for the later Yugas by establishing the principles of righteousness that will be challenged in subsequent periods. Dharma is of utmost significance during the Satya Yuga, guiding the actions of both deities and humans. Characters in this era are portrayed as paragons of virtue, in stark contrast to the moral complexities faced in later Yugas. The Mahabharata conveys lessons about the ideal state of society, emphasizing the harmony and balance achieved through adherence to truth and righteousness."
+        ],
+        "image": null,
+        "manual_entry": false
+      },
+      {
+        "era_name": "Treta Yuga",
+        "queries": [
+          "What are the key characteristics of the Treta Yuga?",
+          "How does the Treta Yuga illustrate the gradual decline of Dharma?",
+          "What major events from the Treta Yuga are referenced in the Mahabharata?",
+          "How do the characters from the Treta Yuga compare with those from the Dvapara Yuga?",
+          "What moral lessons from the Treta Yuga are relevant to contemporary society?"
+        ],
+        "answers": [
+          "The Treta Yuga is characterized by the presence of three-fourths of virtue and one-fourth of vice, marking the beginning of the gradual decline of Dharma. The era illustrates this decline through the struggles faced by characters and the emergence of conflict. Major events referenced from the Treta Yuga include the Ramayana, the story of Lord Rama, and the challenges faced by his kingdom. Characters from the Treta Yuga, such as Rama and Sita, are portrayed as embodiments of virtue, contrasting with the complexities in the Dvapara Yuga. Moral lessons from the Treta Yuga, such as the importance of duty and sacrifice, remain relevant in contemporary society, highlighting the need for ethical conduct in the face of adversity."
+        ],
+        "image": null,
+        "manual_entry": false
+      },
+      {
+        "era_name": "Kali Yuga",
+        "queries": [
+          "What is the significance of the Kali Yuga in the Mahabharata?",
+          "How is the decline of virtue depicted during the Kali Yuga?",
+          "What prophecies regarding the Kali Yuga are mentioned in the epic?",
+          "How do the characters navigate the challenges of the Kali Yuga?",
+          "What warnings does the Mahabharata offer about the implications of living in the Kali Yuga?"
+        ],
+        "answers": [
+          "The Kali Yuga is significant in the Mahabharata as it represents the age of darkness and moral decay, where virtue is at its lowest. The decline of virtue is depicted through the actions of characters who often succumb to greed, anger, and ignorance. Prophecies regarding the Kali Yuga, including the eventual destruction of the world due to moral degradation, are mentioned within the epic. Characters navigate the challenges of this era through resilience and by clinging to the remnants of Dharma, often emphasizing the need for inner strength and awareness. The Mahabharata warns that living in the Kali Yuga requires vigilance and the pursuit of righteousness, even amidst widespread chaos."
+        ],
+        "image": null,
+        "manual_entry": false
+      },
+      {
+        "era_name": "The Age of Heroes",
+        "queries": [
+          "What defines the Age of Heroes in the Mahabharata?",
+          "How do legendary figures influence the events of this era?",
+          "What role do myths and legends play in shaping the narrative?",
+          "What are the characteristics of heroism depicted in this age?",
+          "What can contemporary society learn from the values of heroism presented in the Mahabharata?"
+        ],
+        "answers": [
+          "The Age of Heroes is defined by the presence of legendary figures like Arjuna, Bhima, and Karna, whose actions and decisions significantly influence the course of the Mahabharata. These heroes embody various ideals, including bravery, loyalty, and sacrifice, which are central to the narrative. Myths and legends serve to enhance the story, providing depth and context to the characters' journeys and struggles. Heroism in this age is characterized by personal sacrifice for the greater good, moral integrity, and the pursuit of justice. Contemporary society can learn from these values, emphasizing the importance of courage, integrity, and selflessness in addressing modern challenges."
+        ],
+        "image": null,
+        "manual_entry": false
+      }
+    ]
+  }
+  

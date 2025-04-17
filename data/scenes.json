@@ -1,0 +1,155 @@
+{
+    "scenes_or_incidents": [
+      {
+        "scene_title": "The Game of Dice",
+        "queries": [
+          "Why is the game of dice significant in the Mahabharata?",
+          "How does the game of dice lead to the downfall of the Pandavas?",
+          "What role does Duryodhana play in the game of dice?",
+          "What are the consequences of Yudhishthira's gambling?",
+          "How does Draupadi's disrobing affect the course of events?"
+        ],
+        "answers": [
+          "The game of dice is a pivotal event in the Mahabharata, marking the beginning of the Pandavas' downfall and their eventual exile. Yudhishthira, driven by a sense of duty and honor, agrees to play against Duryodhana, who, with Shakuni's deceitful tactics, wins everything the Pandavas own, including their kingdom, wealth, and Draupadi. This scene is critical as it leads to Draupadi's public disrobing, an event that deeply shames the Pandavas and intensifies their desire for revenge, setting the stage for the Kurukshetra war."
+        ],
+        "image": null,
+        "manual_entry": false
+      },
+      {
+        "scene_title": "Draupadi's Vow",
+        "queries": [
+          "What is Draupadi's vow in the Mahabharata?",
+          "How does Draupadi's vow drive the Pandavas toward war?",
+          "What are the emotional implications of her vow?",
+          "How does Draupadi challenge the Kauravas after her humiliation?",
+          "What is the significance of her vow in the larger narrative?"
+        ],
+        "answers": [
+          "After being humiliated and disrobed in the Kaurava court, Draupadi vows to not tie her hair until it is washed in Duryodhana's blood. This vow becomes a powerful motivator for the Pandavas, especially Bhima, to defeat the Kauravas in the war. Draupadi’s vow symbolizes the anger and injustice suffered by women in patriarchal societies and marks a turning point in the epic, pushing the Pandavas towards the inevitable conflict of Kurukshetra."
+        ],
+        "image": null,
+        "manual_entry": false
+      },
+      {
+        "scene_title": "Bhishma's Oath",
+        "queries": [
+          "Why does Bhishma take the oath of celibacy?",
+          "How does Bhishma's oath shape his character in the Mahabharata?",
+          "What are the consequences of Bhishma's vow for Hastinapura?",
+          "How is Bhishma's sense of duty portrayed through his oath?",
+          "What is the symbolic significance of his oath?"
+        ],
+        "answers": [
+          "Bhishma takes the oath of celibacy to ensure his father, Shantanu, can marry Satyavati without the fear of Bhishma's lineage challenging her future children's claim to the throne. Bhishma’s oath defines his character as a man of unshakable resolve and loyalty to his kingdom. While it ensures Hastinapura’s political stability at that time, it indirectly leads to the future conflicts by leaving the kingdom without a strong ruler. His oath represents the burden of duty and sacrifice, which becomes a recurring theme in the Mahabharata."
+        ],
+        "image": null,
+        "manual_entry": false
+      },
+      {
+        "scene_title": "Krishna's Peace Mission",
+        "queries": [
+          "What was the purpose of Krishna's peace mission in the Mahabharata?",
+          "Why does Krishna's peace mission fail?",
+          "How does Duryodhana react to Krishna's peace offer?",
+          "What does Krishna's mission reveal about his role in the Mahabharata?",
+          "What is the symbolic importance of this mission?"
+        ],
+        "answers": [
+          "Krishna’s peace mission is an attempt to avoid the bloodshed of the Kurukshetra war by negotiating a peaceful settlement between the Pandavas and Kauravas. However, Duryodhana’s refusal to give even a single village to the Pandavas leads to the mission’s failure. Krishna's mission highlights his role as both a divine strategist and a protector of Dharma. The mission's failure is symbolic of the inevitability of war when righteousness (Dharma) is opposed by arrogance and adharma (injustice)."
+        ],
+        "image": null,
+        "manual_entry": false
+      },
+      {
+        "scene_title": "The Bhagavad Gita",
+        "queries": [
+          "What is the significance of the Bhagavad Gita in the Mahabharata?",
+          "How does Krishna counsel Arjuna on the battlefield?",
+          "What are the key teachings of the Bhagavad Gita?",
+          "How does the Bhagavad Gita impact Arjuna’s decision to fight?",
+          "What is the broader philosophical message of the Gita?"
+        ],
+        "answers": [
+          "The Bhagavad Gita is one of the most important philosophical texts in the Mahabharata. It is a dialogue between Krishna and Arjuna on the battlefield, where Krishna imparts spiritual wisdom and guidance to a morally conflicted Arjuna. Krishna emphasizes the importance of duty (Dharma), detachment from results, and devotion to the Divine. The Gita helps Arjuna overcome his doubts and take up arms to fight for righteousness, making it a cornerstone of Hindu philosophy on ethics, life, and purpose."
+        ],
+        "image": null,
+        "manual_entry": false
+      },
+      {
+        "scene_title": "The Kurukshetra War Begins",
+        "queries": [
+          "What marks the beginning of the Kurukshetra war in the Mahabharata?",
+          "How does the first day of the war set the tone for the conflict?",
+          "Which warriors take prominent roles at the start of the war?",
+          "What are the initial strategies used by both sides in the war?",
+          "What is the significance of the first day of the war?"
+        ],
+        "answers": [
+          "The Kurukshetra war begins with the blowing of conch shells by both sides, symbolizing the official commencement of battle. The first day of the war sees fierce fighting with key warriors like Bhishma, Arjuna, Drona, and Duryodhana leading their respective armies. The early stages of the war set the tone for the brutality and intensity that will follow, with no side gaining a decisive advantage. The opening of the war represents the transition from diplomacy to full-scale conflict, emphasizing the inevitability of war in the face of unresolved injustice."
+        ],
+        "image": null,
+        "manual_entry": false
+      },
+      {
+        "scene_title": "Abhimanyu's Death",
+        "queries": [
+          "What is the significance of Abhimanyu's death in the Mahabharata?",
+          "How does Abhimanyu enter the Chakravyuha formation?",
+          "Why was Abhimanyu unable to escape the Chakravyuha?",
+          "What impact does Abhimanyu's death have on the Pandavas?",
+          "What does Abhimanyu's death symbolize in the larger narrative?"
+        ],
+        "answers": [
+          "Abhimanyu’s death is a tragic and pivotal moment in the Mahabharata. He enters the Chakravyuha, a complex battle formation, but is unable to escape as he only knows how to break into it. He is trapped and killed by the Kauravas in an act of unfair combat. His death is a great emotional blow to the Pandavas, especially Arjuna, and it intensifies their resolve to defeat the Kauravas. Abhimanyu's death symbolizes the loss of innocence and the inevitability of sacrifice in war."
+        ],
+        "image": null,
+        "manual_entry": false
+      },
+      {
+        "scene_title": "Bhima's Duel with Duryodhana",
+        "queries": [
+          "Why is Bhima’s duel with Duryodhana significant?",
+          "How does Bhima defeat Duryodhana?",
+          "What is the outcome of their duel?",
+          "What role does Draupadi’s vow play in this fight?",
+          "What does Bhima’s victory symbolize?"
+        ],
+        "answers": [
+          "Bhima’s duel with Duryodhana is the climactic battle that brings the Kurukshetra war to an end. Following Draupadi’s vow, Bhima strikes Duryodhana on the thigh, which was a violation of the rules of combat but a fulfillment of his promise. Bhima’s victory marks the end of the Kaurava line and signifies the triumph of the Pandavas over their enemies. His victory symbolizes justice being served for the injustices inflicted on Draupadi and the Pandavas."
+        ],
+        "image": null,
+        "manual_entry": false
+      },
+      {
+        "scene_title": "The Death of Karna",
+        "queries": [
+          "Why is Karna’s death a significant event in the Mahabharata?",
+          "How does Karna’s loyalty to Duryodhana affect his fate?",
+          "What role does Arjuna play in Karna’s death?",
+          "How does Krishna ensure Karna’s defeat?",
+          "What is the tragic element of Karna’s character revealed at his death?"
+        ],
+        "answers": [
+          "Karna’s death is a poignant moment in the Mahabharata. Loyal to Duryodhana despite knowing his true parentage, Karna's death at the hands of Arjuna fulfills a crucial prophecy. During the final battle, Karna’s chariot wheel gets stuck, and he is unable to defend himself, leading to his death. Krishna ensures Karna’s defeat by reminding Arjuna of the many injustices Karna committed. The tragedy of Karna’s death lies in his unwavering loyalty to Duryodhana, even though he could have joined the Pandavas and avoided his tragic end."
+        ],
+        "image": null,
+        "manual_entry": false
+      },
+      {
+        "scene_title": "Yudhishthira’s Coronation",
+        "queries": [
+          "What happens during Yudhishthira’s coronation?",
+          "How does Yudhishthira react to becoming the king?",
+          "What challenges does Yudhishthira face after the war?",
+          "What role does Krishna play in Yudhishthira’s coronation?",
+          "What is the significance of Yudhishthira’s kingship in the Mahabharata?"
+        ],
+        "answers": [
+          "After the Kurukshetra war, Yudhishthira is crowned king of Hastinapura. Despite his victory, he is filled with sorrow and guilt over the loss of life, especially the deaths of his kinsmen. Yudhishthira’s coronation represents the restoration of Dharma, but it also highlights the burden of leadership and the personal sacrifices required to uphold justice. Krishna guides Yudhishthira through his emotional turmoil, helping him accept his duty as king. His reign symbolizes the return of righteous rule after the chaos of war."
+        ],
+        "image": null,
+        "manual_entry": false
+      }
+    ]
+  }
+  

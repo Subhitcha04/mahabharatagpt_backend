@@ -1,0 +1,80 @@
+{
+    "themes": [
+      {
+        "theme": "Dharma (Righteousness)",
+        "queries": [
+          "What does Dharma signify in the context of the Mahabharata?",
+          "How do characters in the Mahabharata struggle with their Dharma?",
+          "What role does Krishna play in guiding the characters on their Dharma?",
+          "How does the concept of Dharma influence the outcomes of the war?",
+          "What lessons about Dharma can modern readers derive from the Mahabharata?"
+        ],
+        "answers": [
+          "Dharma in the Mahabharata signifies righteousness and duty, acting as a guiding principle for characters. The struggle with Dharma is evident in the choices made by characters like Arjuna, who hesitates to fight against his kin. Krishna's guidance underscores the importance of adhering to one's Dharma, regardless of personal conflicts. The concept influences the war's outcomes, illustrating that following one's duty often leads to greater good. Modern readers can learn about the complexities of moral decisions and the importance of righteousness in their lives."
+        ],
+        "image": null,
+        "manual_entry": false
+      },
+      {
+        "theme": "Karma (Action and Consequence)",
+        "queries": [
+          "How is the concept of Karma depicted in the Mahabharata?",
+          "What examples illustrate the effects of Karma on the characters?",
+          "How do the principles of Karma relate to the events of the Kurukshetra war?",
+          "What moral lessons about Karma can be learned from the Mahabharata?",
+          "How do the characters' actions reflect the consequences of their Karma?"
+        ],
+        "answers": [
+          "The concept of Karma in the Mahabharata is depicted as the law of action and consequence, emphasizing that every action has repercussions. Characters like Duryodhana and Yudhishthira face the consequences of their past actions, leading to their fates in the war. The principles of Karma directly relate to the war, as the characters reap what they have sown throughout their lives. Moral lessons about Karma teach readers about accountability and the importance of righteous actions. The characters' journeys reflect how their choices shape their destinies."
+        ],
+        "image": null,
+        "manual_entry": false
+      },
+      {
+        "theme": "Friendship and Loyalty",
+        "queries": [
+          "What is the significance of friendship and loyalty in the Mahabharata?",
+          "How do the bonds of friendship influence character decisions?",
+          "What lessons about loyalty are highlighted through the relationships of Krishna and Arjuna?",
+          "How does betrayal affect the course of events in the Mahabharata?",
+          "What moral implications arise from the themes of friendship and loyalty?"
+        ],
+        "answers": [
+          "Friendship and loyalty are central themes in the Mahabharata, influencing characters' decisions and actions. The bond between Krishna and Arjuna exemplifies true friendship, guiding Arjuna through his doubts. Betrayal, as seen in the case of Duryodhana and Shakuni, leads to significant consequences, impacting the war's outcome. The moral implications of these themes encourage readers to value trust and loyalty in their relationships, understanding that such bonds shape personal and collective destinies."
+        ],
+        "image": null,
+        "manual_entry": false
+      },
+      {
+        "theme": "The Nature of Power",
+        "queries": [
+          "How is power portrayed in the Mahabharata?",
+          "What lessons about the use and abuse of power can be learned from key characters?",
+          "How do ambition and greed affect the pursuit of power in the Mahabharata?",
+          "What role does the concept of rightful rule play in the narrative?",
+          "How do the outcomes of the power struggles reflect moral teachings?"
+        ],
+        "answers": [
+          "Power in the Mahabharata is portrayed as both a tool for good and a source of destruction. Characters like Duryodhana exemplify the abuse of power through ambition and greed, while Yudhishthira represents righteous leadership. The pursuit of power often leads to moral dilemmas, as seen in the war. The narrative emphasizes the importance of rightful rule, illustrating that true power lies in justice and virtue. The outcomes of these struggles reflect teachings about the ethical use of power and the consequences of its misuse."
+        ],
+        "image": null,
+        "manual_entry": false
+      },
+      {
+        "theme": "Fate and Free Will",
+        "queries": [
+          "What is the relationship between fate and free will in the Mahabharata?",
+          "How do characters navigate their destinies in the story?",
+          "What role does prophecy play in shaping the events of the Mahabharata?",
+          "How does the theme of fate influence character choices?",
+          "What lessons about fate and free will can modern readers derive from the narrative?"
+        ],
+        "answers": [
+          "The relationship between fate and free will is a central theme in the Mahabharata, where characters often grapple with their destinies. While prophecy hints at inevitable outcomes, characters like Arjuna exercise their free will in critical moments, showcasing the tension between predestined events and personal choices. The theme of fate influences decisions, leading to profound consequences. Modern readers can learn about the balance between accepting fate and taking responsibility for their actions, emphasizing that while some events may be destined, our choices still matter."
+        ],
+        "image": null,
+        "manual_entry": false
+      }
+    ]
+  }
+  

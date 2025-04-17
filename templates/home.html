@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome to Mythology Chatbot</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            padding: 20px;
+        }
+        h1 {
+            color: #333;
+            text-align: center;
+        }
+        form {
+            margin-top: 20px;
+            text-align: center;
+        }
+        input[type="text"] {
+            width: 300px;
+            padding: 10px;
+            margin-right: 10px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+        input[type="submit"] {
+            padding: 10px 20px;
+            border: none;
+            border-radius: 4px;
+            background-color: #007bff;
+            color: white;
+            cursor: pointer;
+        }
+        input[type="submit"]:hover {
+            background-color: #0056b3;
+        }
+        #response {
+            margin-top: 20px;
+            padding: 10px;
+            background-color: #e9ecef;
+            border-radius: 4px;
+            max-width: 600px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        .error {
+            color: red;
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome to Mythology Chatbot</h1>
+
+    <form id="query-form">
+        <input type="text" id="query" name="query" placeholder="Ask your question..." required>
+        <input type="submit" value="Submit">
+    </form>
+
+    <div id="response"></div>
+
+    <script>
+        document.getElementById("query-form").addEventListener("submit", async function(event) {
+            event.preventDefault();
+            const query = document.getElementById("query").value;
+
+            try {
+                const response = await fetch('/handle_query/', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                        'X-CSRFToken': getCookie('csrftoken'), // Assuming you're using CSRF protection
+                    },
+                    body: JSON.stringify({ query: query })
+                });
+
+                if (!response.ok) {
+                    throw new Error("Network response was not ok: " + response.statusText);
+                }
+
+                const data = await response.json();
+                displayResponse(data);
+            } catch (error) {
+                displayError(error.message);
+            }
+        });
+
+        function displayResponse(data) {
+            console.log("Response Data:", data); // Log the response data for debugging
+            const responseDiv = document.getElementById("response");
+
+            // Check if the result field is available
+            const result = data.result || "No result found."; // Provide a default message if result is undefined
+            responseDiv.innerHTML = `<strong>Analysis:</strong> ${JSON.stringify(data.analysis, null, 2)}<br>` +
+                                    `<strong>Classification:</strong> ${data.classification}<br>` +
+                                    `<strong>Result:</strong> ${result}`;
+        }
+
+        function displayError(message) {
+            const responseDiv = document.getElementById("response");
+            responseDiv.innerHTML = `<span class="error">${message}</span>`;
+        }
+
+        function getCookie(name) {
+            let cookieValue = null;
+            if (document.cookie && document.cookie !== '') {
+                const cookies = document.cookie.split(';');
+                for (let i = 0; i < cookies.length; i++) {
+                    const cookie = cookies[i].trim();
+                    if (cookie.substring(0, name.length + 1) === (name + '=')) {
+                        cookieValue = decodeURIComponent(cookie.substring(name.length + 1));
+                        break;
+                    }
+                }
+            }
+            return cookieValue;
+        }
+    </script>
+</body>
+</html>

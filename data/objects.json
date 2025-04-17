@@ -1,0 +1,155 @@
+{
+    "objects": [
+      {
+        "object_name": "Vishnu's Disc (Sudarshana Chakra)",
+        "queries": [
+          "What is the significance of the Sudarshana Chakra in the Mahabharata?",
+          "Who wields the Sudarshana Chakra and for what purpose?",
+          "What are the powers associated with the Sudarshana Chakra?",
+          "How does the Sudarshana Chakra relate to the themes of duty and justice?",
+          "What is the mythological origin of the Sudarshana Chakra?"
+        ],
+        "answers": [
+          "The Sudarshana Chakra symbolizes divine protection and righteousness, wielded by Lord Vishnu and often associated with the enforcement of dharma. Its powers include the ability to destroy evil and protect the righteous. It embodies the themes of justice, as it is used to combat adharma (unrighteousness), reflecting Vishnu's role as the preserver of cosmic order."
+        ],
+        "image": null,
+        "manual_entry": false
+      },
+      {
+        "object_name": "Bow of Parashurama",
+        "queries": [
+          "What makes the Bow of Parashurama unique in the Mahabharata?",
+          "Who receives the Bow of Parashurama and what is its significance?",
+          "How does the Bow of Parashurama reflect the theme of warrior ethics?",
+          "What are the legends surrounding the creation of the Bow of Parashurama?",
+          "How does the Bow of Parashurama connect to the larger narrative of the Mahabharata?"
+        ],
+        "answers": [
+          "The Bow of Parashurama, known for its immense power and precision, is unique as it represents the lineage of Kshatriya warriors. It is given to Arjuna by Parashurama, symbolizing the transition from Brahminical to Kshatriya authority. This bow highlights the themes of duty and ethical warfare, embodying the conflict between righteous warfare and personal ambition."
+        ],
+        "image": null,
+        "manual_entry": false
+      },
+      {
+        "object_name": "Pashupatastra",
+        "queries": [
+          "What is the Pashupatastra and who can wield it?",
+          "What are the consequences of using the Pashupatastra in battle?",
+          "How does the Pashupatastra relate to Shiva in the Mahabharata?",
+          "What moral dilemmas arise from the use of the Pashupatastra?",
+          "How does the Pashupatastra influence the outcome of the Kurukshetra war?"
+        ],
+        "answers": [
+          "The Pashupatastra is a celestial weapon granted by Lord Shiva, capable of annihilating entire armies. It can be wielded by only a few chosen warriors, emphasizing its divine origin. Its use raises moral questions about the devastation it can cause, reflecting the broader conflicts of dharma in the Mahabharata. The weapon's power significantly impacts the war's outcome, showcasing the divine's intervention in human affairs."
+        ],
+        "image": null,
+        "manual_entry": false
+      },
+      {
+        "object_name": "Akshauhini",
+        "queries": [
+          "What does the term Akshauhini refer to in the context of the Mahabharata?",
+          "How is the Akshauhini organized during the Kurukshetra war?",
+          "What is the significance of Akshauhini formations in warfare?",
+          "How do the numbers in an Akshauhini reflect the military strategy of the time?",
+          "What lessons can be learned from the use of Akshauhini in the Mahabharata?"
+        ],
+        "answers": [
+          "Akshauhini refers to a specific military formation consisting of a specific number of chariots, elephants, horses, and infantry, typically around 21,870 troops. Its organization plays a crucial role in the strategy of the Kurukshetra war, demonstrating the importance of troop formation and strategy in ancient warfare. The Akshauhini concept teaches lessons on leadership, tactical planning, and the consequences of war."
+        ],
+        "image": null,
+        "manual_entry": false
+      },
+      {
+        "object_name": "Divine Conch (Panchajanya)",
+        "queries": [
+          "What is the significance of the conch Panchajanya in the Mahabharata?",
+          "Who blows the conch Panchajanya and what does it symbolize?",
+          "How does the sound of Panchajanya impact the morale of warriors?",
+          "What is the mythological backstory of the conch Panchajanya?",
+          "In what ways does the conch relate to the themes of battle and dharma?"
+        ],
+        "answers": [
+          "The conch Panchajanya is a powerful symbol of victory and divine support, blown by Lord Krishna before the start of the Kurukshetra war. Its sound signifies the call to battle, rallying the warriors' spirits and instilling fear in the opponents. The conch's mythology ties it to the ocean and the cosmos, representing the righteous call to uphold dharma in the face of adversity."
+        ],
+        "image": null,
+        "manual_entry": false
+      },
+      {
+        "object_name": "Kaustubha Gem",
+        "queries": [
+          "What is the Kaustubha Gem and its significance in the Mahabharata?",
+          "Who possesses the Kaustubha Gem and what are its powers?",
+          "How does the Kaustubha Gem relate to Lord Vishnu's identity?",
+          "What moral lessons can be derived from the story of the Kaustubha Gem?",
+          "How does the Kaustubha Gem influence the course of events in the Mahabharata?"
+        ],
+        "answers": [
+          "The Kaustubha Gem is a divine jewel associated with Lord Vishnu, representing ultimate wealth and prosperity. It is said to grant its possessor immense power and glory. The gem highlights the themes of attachment and detachment, as its ownership comes with responsibilities and ethical dilemmas. Its presence in the Mahabharata underscores the transient nature of material wealth compared to spiritual fulfillment."
+        ],
+        "image": null,
+        "manual_entry": false
+      },
+      {
+        "object_name": "Crown of Duryodhana",
+        "queries": [
+          "What does Duryodhana's crown symbolize in the Mahabharata?",
+          "How does Duryodhana's crown relate to his character and ambitions?",
+          "What role does the crown play in the themes of power and authority?",
+          "How does the symbolism of the crown contribute to Duryodhana's downfall?",
+          "What lessons can be learned from the significance of Duryodhana's crown?"
+        ],
+        "answers": [
+          "Duryodhana's crown symbolizes his ambition and desire for power, representing the weight of his aspirations. It embodies the themes of authority and legitimacy, as Duryodhana seeks to assert his claim over the throne. However, the crown also foreshadows his downfall, as his unyielding pursuit of power ultimately leads to his demise. It teaches that unchecked ambition can lead to ruin."
+        ],
+        "image": null,
+        "manual_entry": false
+      },
+      {
+        "object_name": "Shakti (Energy) Weapon",
+        "queries": [
+          "What is the significance of Shakti weapons in the Mahabharata?",
+          "Who are the notable users of Shakti weapons and what are their roles?",
+          "How does the concept of Shakti relate to the themes of power and femininity?",
+          "What moral implications arise from the use of Shakti weapons?",
+          "How do Shakti weapons influence the battles of the Mahabharata?"
+        ],
+        "answers": [
+          "Shakti weapons symbolize divine energy and strength, often associated with female deities. Characters like Durga wield Shakti in battle, representing empowerment and the feminine aspect of strength. The moral implications of using Shakti reflect the balance of power, as these weapons serve to protect dharma. Their influence in battles underscores the interconnectedness of divine power and moral responsibility."
+        ],
+        "image": null,
+        "manual_entry": false
+      },
+      {
+        "object_name": "Brahmastra",
+        "queries": [
+          "What is the Brahmastra and its significance in the Mahabharata?",
+          "Who are the main users of the Brahmastra and how is it invoked?",
+          "What are the consequences of unleashing the Brahmastra in battle?",
+          "How does the Brahmastra reflect the themes of power and responsibility?",
+          "What lessons can be drawn from the use of Brahmastra in the Mahabharata?"
+        ],
+        "answers": [
+          "The Brahmastra is a formidable weapon, created by Brahma, known for its catastrophic power. Wielded by characters like Arjuna and Ashwatthama, its invocation comes with strict ethical guidelines. The consequences of its use often lead to immense destruction, highlighting the themes of power and responsibility. The stories surrounding the Brahmastra teach the importance of restraint and the moral weight of wielding such power."
+        ],
+        "image": null,
+        "manual_entry": false
+      },
+      {
+        "object_name": "Khandava Forest",
+        "queries": [
+          "What is the significance of Khandava Forest in the Mahabharata?",
+          "Who is involved in the burning of Khandava Forest and why?",
+          "How does the Khandava Forest episode reflect themes of creation and destruction?",
+          "What role does Khandava Forest play in the character development of Arjuna and Krishna?",
+          "What moral lessons can be drawn from the fate of Khandava Forest?"
+        ],
+        "answers": [
+          "Khandava Forest holds significance as a site of destruction and rebirth, where Arjuna and Krishna burn the forest to fulfill a divine mission. This act reflects the themes of creation and destruction, emphasizing the cyclical nature of life. The episode reveals Arjuna's growth as a warrior and Krishna's role as a divine guide. The fate of Khandava Forest imparts lessons about sacrifice, the consequences of actions, and the balance between nature and civilization."
+        ],
+        "image": null,
+        "manual_entry": false
+      }
+    ]
+  }
+  

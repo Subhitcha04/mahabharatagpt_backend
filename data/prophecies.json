@@ -1,0 +1,80 @@
+{
+    "prophecies": [
+      {
+        "prophecy_title": "The Curse of the Kauravas",
+        "queries": [
+          "What is the significance of the curse placed on the Kauravas?",
+          "How does this prophecy affect the fate of the Kaurava brothers?",
+          "What lessons about fate and free will can be derived from this prophecy?",
+          "How does the curse shape the events leading to the Kurukshetra War?",
+          "In what ways does this prophecy illustrate the consequences of one's actions?"
+        ],
+        "answers": [
+          "The curse placed on the Kauravas by their mother, Gandhari, signifies the inevitable downfall of those who embrace adharma (unrighteousness). This prophecy profoundly affects the fate of the Kaurava brothers, leading them towards their demise in the Kurukshetra War. The lessons derived from this prophecy highlight the tension between fate and free will, suggesting that while fate may be predetermined, individual choices play a crucial role in shaping one's destiny. The curse shapes events leading to the war, as it instills a sense of guilt and retribution among characters. Ultimately, this prophecy illustrates that actions driven by greed and hatred lead to dire consequences."
+        ],
+        "image": null,
+        "manual_entry": false
+      },
+      {
+        "prophecy_title": "Krishna's Role as a Divine Guide",
+        "queries": [
+          "What is the prophetic significance of Krishna's involvement in the Mahabharata?",
+          "How does Krishna's guidance influence the choices of key characters?",
+          "What messages about destiny are conveyed through Krishna's role?",
+          "How does this prophecy foreshadow the outcome of the Kurukshetra War?",
+          "In what ways does Krishna's guidance embody the concept of divine intervention?"
+        ],
+        "answers": [
+          "Krishna's involvement in the Mahabharata holds prophetic significance as he acts as a divine guide, shaping the destinies of key characters such as Arjuna and Yudhishthira. His guidance influences their choices by providing wisdom and instilling a sense of righteousness. The messages about destiny conveyed through Krishna's role emphasize that while individuals face challenges, divine intervention can lead them toward their true path. This prophecy foreshadows the outcome of the Kurukshetra War, indicating that righteousness will ultimately triumph over evil. Krishna's guidance embodies the concept of divine intervention, highlighting that the divine can steer individuals towards fulfilling their Dharma."
+        ],
+        "image": null,
+        "manual_entry": false
+      },
+      {
+        "prophecy_title": "The Fall of Duryodhana",
+        "queries": [
+          "What prophecies predict the downfall of Duryodhana?",
+          "How do these predictions impact Duryodhana's actions throughout the epic?",
+          "What does Duryodhana's fate reveal about hubris and ambition?",
+          "How is the theme of inevitability portrayed through Duryodhana's story?",
+          "What moral lessons can be derived from the prophecies surrounding Duryodhana?"
+        ],
+        "answers": [
+          "Several prophecies predict the downfall of Duryodhana, foretelling his fate due to his arrogance and refusal to heed wise counsel. These predictions impact Duryodhana's actions, driving him to pursue a path of conflict and rivalry with the Pandavas. His fate reveals the dangers of hubris and unchecked ambition, illustrating that excessive pride can lead to one's downfall. The theme of inevitability is portrayed through Duryodhana's story, where despite his efforts to avoid his predicted fate, he ultimately succumbs to it. Moral lessons derived from these prophecies emphasize the importance of humility, the need to respect wisdom, and the understanding that actions rooted in negativity lead to ruin."
+        ],
+        "image": null,
+        "manual_entry": false
+      },
+      {
+        "prophecy_title": "The Prophecy of the End of an Era",
+        "queries": [
+          "What does the prophecy about the end of an era signify in the Mahabharata?",
+          "How does this prophecy relate to the concept of Yugas?",
+          "What implications does this prophecy have for the characters involved?",
+          "How does the fulfillment of this prophecy change the narrative?",
+          "What lessons about the cyclical nature of time and fate are presented?"
+        ],
+        "answers": [
+          "The prophecy about the end of an era signifies the transition from the Dvapara Yuga to the Kali Yuga, marking a time of moral decline and chaos. This prophecy relates to the concept of Yugas by illustrating the cyclical nature of time, where each age brings different moral challenges. The implications of this prophecy for the characters are profound, as it foreshadows their struggles and the impending conflicts that will arise. The fulfillment of this prophecy changes the narrative by shifting focus towards themes of justice, righteousness, and the consequences of actions in a morally decaying world. Lessons about the cyclical nature of time and fate are presented, emphasizing that while eras change, the struggle between good and evil remains constant."
+        ],
+        "image": null,
+        "manual_entry": false
+      },
+      {
+        "prophecy_title": "The Fate of the Pandavas",
+        "queries": [
+          "What prophecies surround the fate of the Pandavas?",
+          "How do these prophecies influence the actions of the Pandavas throughout the epic?",
+          "What does their fate reveal about righteousness and justice?",
+          "How does the fulfillment of these prophecies reflect the themes of the Mahabharata?",
+          "What moral lessons can be derived from the Pandavas' journey and its prophetic elements?"
+        ],
+        "answers": [
+          "The fate of the Pandavas is surrounded by prophecies that assure them of victory and the restoration of Dharma, despite the numerous trials they face. These prophecies influence their actions by instilling hope and guiding them to make righteous choices. Their fate reveals that righteousness and justice ultimately prevail, reinforcing the idea that adhering to Dharma leads to favorable outcomes. The fulfillment of these prophecies reflects the themes of the Mahabharata, where good ultimately triumphs over evil. Moral lessons derived from the Pandavas' journey emphasize the importance of perseverance, integrity, and the understanding that destiny favors those who uphold righteousness."
+        ],
+        "image": null,
+        "manual_entry": false
+      }
+    ]
+  }
+  

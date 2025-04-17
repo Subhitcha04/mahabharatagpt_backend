@@ -1,0 +1,80 @@
+{
+    "riddles": [
+      {
+        "riddle": "What walks on four legs in the morning, two in the afternoon, and three in the evening?",
+        "queries": [
+          "What does this riddle symbolize in the Mahabharata?",
+          "How can this riddle be interpreted in the context of human life?",
+          "What lessons about the stages of life can be drawn from this riddle?",
+          "Which character in the Mahabharata represents this riddle's answer?",
+          "What is the significance of understanding riddles in the epic?"
+        ],
+        "answers": [
+          "This riddle symbolizes the stages of human life, referring to an individual who crawls as a baby (four legs), walks upright as an adult (two legs), and uses a cane in old age (three legs). This interpretation reflects the philosophical themes present in the Mahabharata regarding the transient nature of life and the inevitability of aging. The character representing this riddle's answer is often seen as Yudhishthira, who embodies wisdom and understanding of life's complexities. Understanding riddles in the epic signifies the importance of knowledge and wisdom, challenging individuals to think critically about life's deeper meanings."
+        ],
+        "image": null,
+        "manual_entry": false
+      },
+      {
+        "riddle": "I have no life, but I can die. What am I?",
+        "queries": [
+          "What does this riddle signify in the context of the Mahabharata?",
+          "How does this riddle relate to the concept of Dharma?",
+          "Which characters or events in the Mahabharata can be associated with this riddle?",
+          "What deeper meanings can be interpreted from this riddle?",
+          "How does the resolution of this riddle reflect the themes of the epic?"
+        ],
+        "answers": [
+          "This riddle signifies the concept of a 'fate' or 'prophecy,' as it can influence lives yet is not a living entity itself. In the context of the Mahabharata, this relates to the concept of Dharma, where actions have consequences that can lead to the downfall or upliftment of characters based on their choices. Characters like Dhritarashtra, who faced the consequences of their choices, resonate with this riddle. The deeper meanings of this riddle highlight the inevitability of fate and the choices individuals make in their lives. The resolution of this riddle reflects the overarching themes of the epic, emphasizing the interplay between destiny and free will."
+        ],
+        "image": null,
+        "manual_entry": false
+      },
+      {
+        "riddle": "What is so fragile that saying its name breaks it?",
+        "queries": [
+          "What does this riddle symbolize within the Mahabharata?",
+          "How can the answer to this riddle be interpreted in relation to trust and relationships?",
+          "What characters or situations in the Mahabharata relate to this riddle?",
+          "How does this riddle reflect the themes of loyalty and betrayal?",
+          "What moral lessons can be derived from this riddle's answer?"
+        ],
+        "answers": [
+          "This riddle symbolizes 'silence,' which can be fragile, as once it is broken by speaking, it can lead to misunderstandings or conflicts. Within the Mahabharata, this reflects the importance of trust and relationships, where unspoken bonds can be easily shattered. Characters like Yudhishthira, known for his honesty, and the betrayal by Duryodhana, highlight the significance of trust. The riddle reflects themes of loyalty and betrayal, emphasizing how silence can often hold more power than words. The moral lessons derived from this riddle's answer underscore the importance of careful communication and the delicate nature of human relationships."
+        ],
+        "image": null,
+        "manual_entry": false
+      },
+      {
+        "riddle": "I can be cracked, made, told, and played. What am I?",
+        "queries": [
+          "What does this riddle signify in the context of the Mahabharata?",
+          "How does the answer relate to storytelling within the epic?",
+          "Which characters exemplify this riddle in their actions or narratives?",
+          "What role do riddles play in the culture depicted in the Mahabharata?",
+          "What lessons about wisdom and knowledge can be inferred from this riddle?"
+        ],
+        "answers": [
+          "This riddle signifies a 'joke' or 'story,' which can be cracked (as in humor), made (as in creativity), told (as in narration), and played (as in theatrical performances). In the Mahabharata, storytelling is crucial for passing down wisdom and cultural values. Characters like Narada, known for his wit and storytelling, exemplify this riddle through their actions. Riddles and stories play a significant role in the culture depicted in the Mahabharata, as they often convey deeper truths and teachings. The lessons about wisdom and knowledge inferred from this riddle emphasize the importance of humor and storytelling in understanding life’s complexities."
+        ],
+        "image": null,
+        "manual_entry": false
+      },
+      {
+        "riddle": "What has keys but can't open locks?",
+        "queries": [
+          "What does this riddle represent in the Mahabharata's context?",
+          "How can the answer be related to knowledge and potential?",
+          "Which characters or events in the Mahabharata can illustrate this riddle?",
+          "What implications does this riddle have regarding talent and abilities?",
+          "What moral insights can be derived from understanding this riddle?"
+        ],
+        "answers": [
+          "This riddle represents a 'piano' or 'musical instrument,' symbolizing knowledge and potential that cannot unlock anything tangible. In the context of the Mahabharata, it reflects the abilities of characters who possess great potential but may not fully utilize their skills or talents. Characters like Arjuna, who has exceptional archery skills, can illustrate this riddle, showing that potential must be harnessed effectively. The implications regarding talent and abilities highlight that possessing skills alone is not enough; one must act on them. Moral insights derived from understanding this riddle emphasize the importance of recognizing and utilizing one's potential to create meaningful change."
+        ],
+        "image": null,
+        "manual_entry": false
+      }
+    ]
+  }
+  

@@ -16,6 +16,11 @@ from pymongo import MongoClient
 from corsheaders.defaults import default_headers
 
 
+PORT = os.environ.get('PORT', 8000)
+
+# In case you're customizing runserver or other management commands
+# you might need this for certain platforms, though not always required in Gunicorn
+
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
 
